@@ -1,2 +1,2 @@
 > [!IMPORTANT]
-> This resourcepack was made by MatanR and Next MC development team
+> Designed by MatanR and the Next MC development team
