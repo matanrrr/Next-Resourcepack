@@ -2,5 +2,7 @@
 > Designed by MatanR and Next MC development team
 > 
 > **Included packs:**
-> \nMTVehicles - [Github](https://github.com/MTVehicles/MinetopiaVehicles)
-> \nCustomNamePlates - [Github](https://github.com/Xiao-MoMi/Custom-Nameplates)
+>
+> MTVehicles - [Github](https://github.com/MTVehicles/MinetopiaVehicles)
+>
+> CustomNamePlates - [Github](https://github.com/Xiao-MoMi/Custom-Nameplates)
