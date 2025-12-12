@@ -1,0 +1,7 @@
+{
+    "parent": "vehicles/vehicles/ufo_vehicle",
+    "textures": {
+  		"0": "vehicles/cars/ufo_vehicle_black",
+  		"particle": "vehicles/cars/ufo_vehicle_black"
+    }
+}

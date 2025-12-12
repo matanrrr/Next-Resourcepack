@@ -1,0 +1,6 @@
+{
+    "parent": "vehicles/vehicles/raket_legend_green",
+	"textures": {
+		"2": "vehicles/cars/raket_legend_desert"
+    }
+}

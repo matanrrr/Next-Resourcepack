@@ -1,0 +1,9 @@
+{
+    "parent": "vehicles/vehicles/sportief_flamered",
+    "textures": {
+        "particle": "items/particle",
+		"texture": "items/texture",
+		"voxels_palette": "blocks/glass_gray",
+		"voxels_atlas": "vehicles/cars/sportief_flamepink"
+    }
+}

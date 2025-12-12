@@ -1,0 +1,8 @@
+{
+    "parent": "vehicles/vehicles/motor_police",
+	"textures": {
+		"particle": "items/particle",
+		"texture": "items/texture",
+		"voxels_atlas": "vehicles/cars/motor_koningsdag"
+    }
+}

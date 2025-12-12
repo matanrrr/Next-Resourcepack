@@ -1,0 +1,364 @@
+{
+	"minetopiaclassic.horn1": {
+		"sounds": [
+			"sounds:vehicles/horn1"
+		]
+	},
+	"minetopiaclassic.horn2": {
+		"sounds": [
+			"sounds:vehicles/horn2"
+		]
+	},
+	"minetopiaclassic.horn3": {
+		"sounds": [
+			"sounds:vehicles/horn3"
+		]
+	},
+	"minetopiaclassic.horn4": {
+		"sounds": [
+			"sounds:vehicles/horn4"
+		]
+	},
+	"minetopiaclassic.horn5": {
+		"sounds": [
+			"sounds:vehicles/horn5"
+		]
+	},
+	"minetopiaclassic.horn6": {
+		"sounds": [
+			"sounds:vehicles/horn6"
+		]
+	},
+	"minetopiaclassic.horn7": {
+		"sounds": [
+			"sounds:vehicles/horn7"
+		]
+	},
+	"minetopiaclassic.horn8": {
+		"sounds": [
+			"sounds:vehicles/horn8"
+		]
+	},
+	"minetopiaclassic.horn9": {
+		"sounds": [
+			"sounds:vehicles/horn9"
+		]
+	},
+	"minetopiaclassic.horn10": {
+		"sounds": [
+			"sounds:vehicles/horn10"
+		]
+	},
+	"minetopiaclassic.horn11": {
+		"sounds": [
+			"sounds:vehicles/horn11"
+		]
+	},
+	"minetopiaclassic.horn12": {
+		"sounds": [
+			"sounds:vehicles/horn12"
+		]
+	},
+	"minetopiaclassic.horn13": {
+		"sounds": [
+			"sounds:vehicles/horn13"
+		]
+	},
+	"minetopiaclassic.horn14": {
+		"sounds": [
+			"sounds:vehicles/horn14"
+		]
+	},
+	"minetopiaclassic.horn15": {
+		"sounds": [
+			"sounds:vehicles/horn15"
+		]
+	},
+	"minetopiaclassic.horn16": {
+		"sounds": [
+			"sounds:vehicles/horn16"
+		]
+	},
+	"minetopiaclassic.horn17": {
+		"sounds": [
+			"sounds:vehicles/horn17"
+		]
+	},
+	"minetopiaclassic.horn18": {
+		"sounds": [
+			"sounds:vehicles/horn18"
+		]
+	},
+	"minetopiaclassic.horn19": {
+		"sounds": [
+			"sounds:vehicles/horn19"
+		]
+	},
+	"minetopiaclassic.horn20": {
+		"sounds": [
+			"sounds:vehicles/horn20"
+		]
+	},
+
+	"fx.ricochet": {
+    "category": "master",
+    "sounds": [ "sounds:weapons/fx/bowhit1", "sounds:weapons/fx/bowhit2", "sounds:weapons/fx/bowhit3", "sounds:weapons/fx/bowhit4" ]
+  },
+  "fx.whiz": {
+    "category": "master",
+    "sounds": [
+      {
+				"name": "sounds:weapons/fx/whiz1",
+				"weight": 4
+			},
+      {
+				"name": "sounds:weapons/fx/whiz2",
+				"weight": 1
+			},
+      {
+				"name": "sounds:weapons/fx/whiz3",
+				"weight": 2
+			}
+    ]
+  },
+  "fx.stim": {
+    "category": "master",
+    "sounds": [ "sounds:weapons/misc/stim" ]
+  },
+  "explosion.frag": {
+    "category": "master",
+	  "sounds": [ "sounds:weapons/explosion/frag" ]
+  },
+  "explosion.molotov": {
+    "category": "master",
+	  "sounds": [ "sounds:weapons/explosion/molotov" ]
+  },
+  "reload.start.light": {
+    "category": "master",
+	  "sounds": [ "sounds:weapons/reload/eject_mag_light" ]
+  },
+  "reload.end.light": {
+    "category": "master",
+	  "sounds": [ "sounds:weapons/reload/insert_mag_light" ]
+  },
+  "reload.start.normal": {
+    "category": "master",
+	  "sounds": [ "sounds:weapons/reload/eject_mag_normal" ]
+  },
+  "reload.end.normal": {
+    "category": "master",
+	  "sounds": [ "sounds:weapons/reload/insert_mag_normal" ]
+  },
+  "reload.start.heavy": {
+    "category": "master",
+	  "sounds": [ "sounds:weapons/reload/eject_mag_minigun" ]
+  },
+  "reload.end.heavy": {
+    "category": "master",
+	  "sounds": [ "sounds:weapons/reload/insert_mag_minigun" ]
+  },
+  "reload.start.shotgun": {
+    "category": "master",
+	  "sounds": [ "sounds:weapons/reload/insert_shotgun_shells" ]
+  },
+  "scope.in": {
+    "category": "master",
+    "sounds": [ "sounds:weapons/scope/start_scope" ]
+  },
+  "scope.out": {
+    "category": "master",
+    "sounds": [ "sounds:weapons/scope/end_scope" ] 
+  },
+  "shoot.50gs.quiet": {
+    "category": "master",
+    "sounds": [ "sounds:weapons/shoot/quiet/50gs" ]
+  },
+  "shoot.357magnum.quiet": {
+    "category": "master",
+    "sounds": [ "sounds:weapons/shoot/quiet/357magnum" ]
+  },
+  "shoot.ak47.quiet": {
+    "category": "master",
+    "sounds": [ "sounds:weapons/shoot/quiet/ak47" ]
+  },
+  "shoot.aug.quiet": {
+    "category": "master",
+    "sounds": [ "sounds:weapons/shoot/quiet/aug" ]
+  },
+  "shoot.ax50.quiet": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/quiet/ax50"]
+  },
+  "shoot.fnfal.quiet": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/quiet/fnfal"]
+  },
+  "shoot.fr556.quiet": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/quiet/fr556"]
+  },
+  "shoot.kar98k.quiet": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/quiet/kar98k"]
+  },
+  "shoot.m4a1.quiet": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/quiet/m4a1"]
+  },
+  "shoot.mg34.quiet": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/quiet/mg34"]
+  },
+  "shoot.origin12.quiet": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/quiet/origin12"]
+  },
+  "shoot.r90.quiet": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/quiet/r90shotgun"]
+  },
+  "shoot.rpg7.quiet": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/quiet/rpg7"]
+  },
+  "shoot.uzi.quiet": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/quiet/uzi"]
+  },
+  "shoot.stg44.quiet": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/quiet/stg44"]
+  },
+  "shoot.fatman.quiet": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/quiet/fatman"]
+  },
+  "shoot.50gs.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/50gs"]
+  },
+  "shoot.357magnum.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/357magnum"]
+  },
+  "shoot.ak47.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/ak47"]
+  },
+  "shoot.aug.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/aug"]
+  },
+  "shoot.ax50.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/ax50"]
+  },
+  "shoot.fnfal.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/fnfal"]
+  },
+  "shoot.fr556.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/fr556"]
+  },
+  "shoot.kar98k.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/kar98k"]
+  },
+  "shoot.m4a1.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/m4a1"]
+  },
+  "shoot.mg34.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/mg34"]
+  },
+  "shoot.origin12.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/origin12"]
+  },
+  "shoot.r90.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/r90shotgun"]
+  },
+  "shoot.rpg7.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/rpg7"]
+  },
+  "shoot.uzi.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/uzi"]
+  },
+  "shoot.stg44.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/stg44"]
+  },
+  "shoot.fatman.ambient": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/ambient/fatman"]
+  },
+  "shoot.50gs.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/50gs"]
+  },
+  "shoot.357magnum.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/357magnum"]
+  },
+  "shoot.ak47.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/ak47"]
+  },
+  "shoot.aug.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/aug"]
+  },
+  "shoot.ax50.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/ax50"]
+  },
+  "shoot.fnfal.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/fnfal"]
+  },
+  "shoot.fr556.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/fr556"]
+  },
+  "shoot.kar98k.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/kar98k"]
+  },
+  "shoot.m4a1.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/m4a1"]
+  },
+  "shoot.mg34.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/mg34"]
+  },
+  "shoot.origin12.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/origin12"]
+  },
+  "shoot.r90.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/r90shotgun"]
+  },
+  "shoot.rpg7.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/rpg7"]
+  },
+  "shoot.uzi.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/uzi"]
+  },
+  "shoot.stg44.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/stg44"]
+  },
+  "shoot.fatman.loud": {
+    "category": "master",
+    "sounds": ["sounds:weapons/shoot/loud/fatman"]
+  }
+}

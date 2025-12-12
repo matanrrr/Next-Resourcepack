@@ -1,0 +1,20 @@
+{
+  "customsounds.birds": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "sounds:animals/birds",
+        "stream": true
+      }
+    ]
+  },
+  "customsounds.lobby": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "sounds:background/lobby",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+        {
+            "when": "lobbysign",
+            "model": {
+              "type": "minecraft:model",
+              "model": "next:item/lobbysign"
+            }
+        }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/stick"
+    }
+  }
+}

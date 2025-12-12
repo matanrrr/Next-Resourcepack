@@ -1,0 +1,7 @@
+{
+    "parent": "vehicles/vehicles/tank_legend_green",
+	"textures": {
+		"1": "vehicles/cars/tank_legend_sand",
+		"particle": "vehicles/cars/tank_legend_sand"
+    }
+}
