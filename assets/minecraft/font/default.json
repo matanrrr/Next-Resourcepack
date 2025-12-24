@@ -20,6 +20,12 @@
         {"type": "bitmap", "file": "next:logo/tblogo_split2.png", "height": 39, "ascent": 0, "chars": ["\uE014"]},
 
         {"type": "bitmap", "file": "next:guis/kits.png", "height": 256, "ascent": 25, "chars": ["\uE015"]},
-        {"type": "bitmap", "file": "next:guis/kits_preview.png", "height": 256, "ascent": 25, "chars": ["\uE016"]}
+        {"type": "bitmap", "file": "next:guis/kits_preview.png", "height": 256, "ascent": 25, "chars": ["\uE016"]},
+
+        {"type": "bitmap", "file": "next:item/music.png", "height": 10, "ascent": 7, "chars": ["\uE018"]},
+        {"type": "bitmap", "file": "next:item/tag.png", "height": 10, "ascent": 7, "chars": ["\uE019"]},
+        {"type": "bitmap", "file": "next:item/selectors.png", "height": 10, "ascent": 7, "chars": ["\uE020"]},
+
+       {"type": "bitmap", "file": "next:interactions/miner.png", "height": 32, "ascent": 32, "chars": ["\uE021"]}
     ]
 }

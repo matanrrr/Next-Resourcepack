@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      { "when": "balloon_blue", "model": { "type": "minecraft:model", "model": "next:balloons/balloon-blue" } },
+      { "when": "balloon_creeper", "model": { "type": "minecraft:model", "model": "next:balloons/balloon-creeper" } },
+      { "when": "balloon_green", "model": { "type": "minecraft:model", "model": "next:balloons/balloon-green" } },
+      { "when": "balloon_pink", "model": { "type": "minecraft:model", "model": "next:balloons/balloon-pink" } },
+      { "when": "balloon_yellow", "model": { "type": "minecraft:model", "model": "next:balloons/balloon-yellow" } },
+      { "when": "banner_cosmetics", "model": { "type": "minecraft:model", "model": "next:banners/cosmetics" } },
+      { "when": "big_balloon", "model": { "type": "minecraft:model", "model": "next:big_balloon/balloon" } },
+      { "when": "board", "model": { "type": "minecraft:model", "model": "next:board/questboard" } },
+      { "when": "hat_basketball", "model": { "type": "minecraft:model", "model": "next:hats/basketball/texture" } },
+      { "when": "hat_farmer", "model": { "type": "minecraft:model", "model": "next:hats/farmer/farmer" } },
+      { "when": "hat_hard", "model": { "type": "minecraft:model", "model": "next:hats/hard/texture" } },
+      { "when": "hat_jolly_tree", "model": { "type": "minecraft:model", "model": "next:hats/jolly_tree/texture" } },
+      { "when": "hat_moon", "model": { "type": "minecraft:model", "model": "next:hats/moon/texture" } },
+      { "when": "hat_plush_fran", "model": { "type": "minecraft:model", "model": "next:hats/plush_fran/skin" } },
+      { "when": "hat_turtle", "model": { "type": "minecraft:model", "model": "next:hats/turtle/texture" } },
+      { "when": "hat_wizard", "model": { "type": "minecraft:model", "model": "next:hats/wizard/texture" } },
+      { "when": "backpack", "model": { "type": "minecraft:model", "model": "next:item/backpack" } },
+      { "when": "book", "model": { "type": "minecraft:model", "model": "next:item/book" } }
+    ],
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/leather_horse_armor" }
+  }
+}
