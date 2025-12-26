@@ -1,16 +1,16 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/hats/jolly_tree/texture",
-		"1": "item/hats/jolly_tree/color11",
-		"2": "item/hats/jolly_tree/color22",
-		"3": "item/hats/jolly_tree/color12",
-		"4": "item/hats/jolly_tree/color13",
-		"5": "item/hats/jolly_tree/color14",
-		"6": "item/hats/jolly_tree/color21",
-		"7": "item/hats/jolly_tree/color23",
-		"8": "item/hats/jolly_tree/color24",
-		"particle": "item/hats/jolly_tree/texture"
+		"0": "next:item/hats/jolly_tree/texture",
+		"1": "next:item/hats/jolly_tree/color11",
+		"2": "next:item/hats/jolly_tree/color22",
+		"3": "next:item/hats/jolly_tree/color12",
+		"4": "next:item/hats/jolly_tree/color13",
+		"5": "next:item/hats/jolly_tree/color14",
+		"6": "next:item/hats/jolly_tree/color21",
+		"7": "next:item/hats/jolly_tree/color23",
+		"8": "next:item/hats/jolly_tree/color24",
+		"particle": "next:item/hats/jolly_tree/texture"
 	},
 	"elements": [
 		{

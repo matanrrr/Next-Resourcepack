@@ -20,7 +20,20 @@
       { "when": "hat_turtle", "model": { "type": "minecraft:model", "model": "next:hats/turtle/texture" } },
       { "when": "hat_wizard", "model": { "type": "minecraft:model", "model": "next:hats/wizard/texture" } },
       { "when": "backpack", "model": { "type": "minecraft:model", "model": "next:item/backpack" } },
-      { "when": "book", "model": { "type": "minecraft:model", "model": "next:item/book" } }
+      { "when": "book", "model": { "type": "minecraft:model", "model": "next:item/book" } },
+      { "when": "chair", "model": { "type": "minecraft:model", "model": "next:item/furniture/chair" } },
+      { "when": "table", "model": { "type": "minecraft:model", "model": "next:item/furniture/table" } },
+      { "when": "bench", "model": { "type": "minecraft:model", "model": "next:item/furniture/bench" } },
+      { "when": "purple_crate", "model": { "type": "minecraft:model", "model": "next:item/crate/purple_crate" } },
+      { "when": "red_crate", "model": { "type": "minecraft:model", "model": "next:item/crate/red_crate" } },
+      { "when": "blue_crate", "model": { "type": "minecraft:model", "model": "next:item/crate/blue_crate" } },
+      { "when": "green_crate", "model": { "type": "minecraft:model", "model": "next:item/crate/green_crate" } },
+      { "when": "castle", "model": { "type": "minecraft:model", "model": "next:item/beach/castle" } },
+      { "when": "ball", "model": { "type": "minecraft:model", "model": "next:item/beach/ball" } },
+      { "when": "redparasol", "model": { "type": "minecraft:model", "model": "next:item/beach/redparasol" } },
+      { "when": "surf", "model": { "type": "minecraft:model", "model": "next:item/beach/surf" } },
+      { "when": "gift", "model": { "type": "minecraft:model", "model": "next:item/gift" } },
+      { "when": "trash", "model": { "type": "minecraft:model", "model": "next:item/trash" } }
     ],
     "fallback": { "type": "minecraft:model", "model": "minecraft:item/leather_horse_armor" }
   }
