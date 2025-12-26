@@ -33,7 +33,17 @@
       { "when": "redparasol", "model": { "type": "minecraft:model", "model": "next:beach/redparasol" } },
       { "when": "surf", "model": { "type": "minecraft:model", "model": "next:beach/surf" } },
       { "when": "gift", "model": { "type": "minecraft:model", "model": "next:item/gift" } },
-      { "when": "trash", "model": { "type": "minecraft:model", "model": "next:item/bluetrashcan" } }
+      { "when": "trash", "model": { "type": "minecraft:model", "model": "next:item/bluetrashcan" } },
+      { "when": "big_barrel", "model": { "type": "minecraft:model", "model": "next:barrels/big_barrel" } },
+      { "when": "big_barrel_tapped", "model": { "type": "minecraft:model", "model": "next:barrels/big_barrel_tapped" } },
+      { "when": "small_barrel", "model": { "type": "minecraft:model", "model": "next:barrels/small_barrel" } },
+      { "when": "vending_machine", "model": { "type": "minecraft:model", "model": "next:item/vendingmachine" } },
+      { "when": "plushie_alex", "model": { "type": "minecraft:model", "model": "next:plushies/nm_plushie_alex" } },
+      { "when": "plushie_creaking", "model": { "type": "minecraft:model", "model": "next:plushies/nm_plushie_creaking" } },
+      { "when": "plushie_ocelot", "model": { "type": "minecraft:model", "model": "next:plushies/nm_plushie_ocelot" } },
+      { "when": "plushie_steve", "model": { "type": "minecraft:model", "model": "next:plushies/nm_plushie_steve" } },
+      { "when": "plushie_tropical_fish", "model": { "type": "minecraft:model", "model": "next:plushies/nm_plushie_tropical_fish" } },
+      { "when": "plushie_zombie_horse", "model": { "type": "minecraft:model", "model": "next:plushies/nm_plushie_zombie_horse" } }
     ],
     "fallback": { "type": "minecraft:model", "model": "minecraft:item/leather_horse_armor" }
   }
