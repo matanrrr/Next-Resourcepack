@@ -28,12 +28,12 @@
       { "when": "red_crate", "model": { "type": "minecraft:model", "model": "next:crate/red_crate" } },
       { "when": "blue_crate", "model": { "type": "minecraft:model", "model": "next:crate/blue_crate" } },
       { "when": "green_crate", "model": { "type": "minecraft:model", "model": "next:crate/green_crate" } },
-      { "when": "castle", "model": { "type": "minecraft:model", "model": "next:beach/castle" } },
+      { "when": "castle", "model": { "type": "minecraft:model", "model": "next:beach/sand_castle" } },
       { "when": "ball", "model": { "type": "minecraft:model", "model": "next:beach/ball" } },
       { "when": "redparasol", "model": { "type": "minecraft:model", "model": "next:beach/redparasol" } },
       { "when": "surf", "model": { "type": "minecraft:model", "model": "next:beach/surf" } },
       { "when": "gift", "model": { "type": "minecraft:model", "model": "next:item/gift" } },
-      { "when": "trash", "model": { "type": "minecraft:model", "model": "next:item/trash" } }
+      { "when": "trash", "model": { "type": "minecraft:model", "model": "next:item/bluetrashcan" } }
     ],
     "fallback": { "type": "minecraft:model", "model": "minecraft:item/leather_horse_armor" }
   }
