@@ -43,7 +43,23 @@
       { "when": "plushie_ocelot", "model": { "type": "minecraft:model", "model": "next:plushies/nm_plushie_ocelot" } },
       { "when": "plushie_steve", "model": { "type": "minecraft:model", "model": "next:plushies/nm_plushie_steve" } },
       { "when": "plushie_tropical_fish", "model": { "type": "minecraft:model", "model": "next:plushies/nm_plushie_tropical_fish" } },
-      { "when": "plushie_zombie_horse", "model": { "type": "minecraft:model", "model": "next:plushies/nm_plushie_zombie_horse" } }
+      { "when": "plushie_zombie_horse", "model": { "type": "minecraft:model", "model": "next:plushies/nm_plushie_zombie_horse" } },
+      { "when": "pebble", "model": { "type": "minecraft:model", "model": "next:furniture/pebble" } },
+      { "when": "pebble_beach", "model": { "type": "minecraft:model", "model": "next:furniture/pebble_beach" } },
+      { "when": "pebble_beach_double", "model": { "type": "minecraft:model", "model": "next:furniture/pebble_beach_double" } },
+      { "when": "pebble_beach_tripple", "model": { "type": "minecraft:model", "model": "next:furniture/pebble_beach_tripple" } },
+      { "when": "pebble_double", "model": { "type": "minecraft:model", "model": "next:furniture/pebble_double" } },
+      { "when": "pebble_red", "model": { "type": "minecraft:model", "model": "next:furniture/pebble_red" } },
+      { "when": "pebble_red_double", "model": { "type": "minecraft:model", "model": "next:furniture/pebble_red_double" } },
+      { "when": "pebble_red_tripple", "model": { "type": "minecraft:model", "model": "next:furniture/pebble_red_tripple" } },
+      { "when": "pebble_tripple", "model": { "type": "minecraft:model", "model": "next:furniture/pebble_tripple" } },
+      { "when": "rocks", "model": { "type": "minecraft:model", "model": "next:furniture/rocks" } },
+      { "when": "rocks_big", "model": { "type": "minecraft:model", "model": "next:furniture/rocks_big" } },
+      { "when": "rocks_huge", "model": { "type": "minecraft:model", "model": "next:furniture/rocks_huge" } },
+      { "when": "tall_tropical_plant", "model": { "type": "minecraft:model", "model": "next:furniture/tall_tropical_plant" } },
+      { "when": "tiki_torch", "model": { "type": "minecraft:model", "model": "next:furniture/tiki_torch" } },
+      { "when": "tiki_torch_on", "model": { "type": "minecraft:model", "model": "next:furniture/tiki_torch_on" } },
+      { "when": "weird_tropical_plant", "model": { "type": "minecraft:model", "model": "next:furniture/weird_tropical_plant" } }
     ],
     "fallback": { "type": "minecraft:model", "model": "minecraft:item/leather_horse_armor" }
   }
