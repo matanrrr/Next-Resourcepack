@@ -59,7 +59,8 @@
       { "when": "tall_tropical_plant", "model": { "type": "minecraft:model", "model": "next:furniture/tall_tropical_plant" } },
       { "when": "tiki_torch", "model": { "type": "minecraft:model", "model": "next:furniture/tiki_torch" } },
       { "when": "tiki_torch_on", "model": { "type": "minecraft:model", "model": "next:furniture/tiki_torch_on" } },
-      { "when": "weird_tropical_plant", "model": { "type": "minecraft:model", "model": "next:furniture/weird_tropical_plant" } }
+      { "when": "weird_tropical_plant", "model": { "type": "minecraft:model", "model": "next:furniture/weird_tropical_plant" } },
+      { "when": "cart", "model": { "type": "minecraft:model", "model": "next:item/cart" } }
     ],
     "fallback": { "type": "minecraft:model", "model": "minecraft:item/leather_horse_armor" }
   }
