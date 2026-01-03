@@ -16,5 +16,23 @@
         "stream": true
       }
     ]
+  },
+  "customsounds.frogs": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "sounds:background/frogs",
+        "stream": true
+      }
+    ]
+  },
+  "customsounds.sendServer": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "sounds:background/sendServer",
+        "stream": true
+      }
+    ]
   }
 }
