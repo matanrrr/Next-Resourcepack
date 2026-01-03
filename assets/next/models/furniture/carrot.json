@@ -1,8 +1,8 @@
 {
   "credit": "MadewithBlockbench",
   "textures": {
-    "0": "merchant_pack:fruit_basket",
-    "particle": "merchant_pack:fruit_basket"
+    "0": "next:item/furniture/fruit_basket",
+    "particle": "next:item/furniture/fruit_basket"
   },
   "elements": [
     {

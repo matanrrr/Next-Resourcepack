@@ -2,7 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "bojarsky_legacy:bl_flag_2"
+		"1": "next:item/bl/bl_flag_2"
 	},
 	"elements": [
 		{

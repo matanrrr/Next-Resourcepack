@@ -1,8 +1,8 @@
 {
   "credit": "MadewithBlockbench",
   "textures": {
-    "0": "merchant_pack:potions",
-    "particle": "merchant_pack:potions"
+    "0": "next:item/furniture/potions",
+    "particle": "next:item/furniture/potions"
   },
   "elements": [
     {

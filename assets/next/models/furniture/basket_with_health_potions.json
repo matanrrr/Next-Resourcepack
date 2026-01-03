@@ -1,9 +1,9 @@
 {
 	"credit": "MadewithBlockbench",
 	"textures": {
-		"0": "merchant_pack:potions",
-		"1": "merchant_pack:fruit_basket",
-		"particle": "merchant_pack:potions"
+		"0": "next:item/furniture/potions",
+		"1": "next:item/furniture/fruit_basket",
+		"particle": "next:item/furniture/potions"
 	},
 	"elements": [
 		{

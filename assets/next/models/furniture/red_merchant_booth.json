@@ -2,8 +2,8 @@
   "credit": "MadewithBlockbench",
   "texture_size": [128, 128],
   "textures": {
-    "0": "merchant_pack:merchant_stall",
-    "particle": "merchant_pack:merchant_stall"
+    "0": "next:item/furniture/merchant_stall",
+    "particle": "next:item/furniture/merchant_stall"
   },
   "elements": [
     {

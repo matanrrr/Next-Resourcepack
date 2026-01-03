@@ -1,6 +1,6 @@
 {
   "credit": "MadewithBlockbench",
-  "textures": { "0": "merchant_pack:books", "particle": "merchant_pack:books" },
+  "textures": { "0": "next:item/furniture/books", "particle": "next:item/furniture/books" },
   "elements": [
     {
       "from": [4.9, 3.1, -0.1],

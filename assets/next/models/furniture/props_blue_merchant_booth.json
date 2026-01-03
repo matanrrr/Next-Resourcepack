@@ -2,11 +2,11 @@
   "credit": "MadewithBlockbench",
   "texture_size": [128, 128],
   "textures": {
-    "0": "merchant_pack:merchant_stall",
-    "1": "merchant_pack:books",
-    "2": "merchant_pack:scrolls",
-    "3": "merchant_pack:potions",
-    "particle": "merchant_pack:merchant_stall"
+    "0": "next:item/furniture/merchant_stall",
+    "1": "next:item/furniture/books",
+    "2": "next:item/furniture/scrolls",
+    "3": "next:item/furniture/potions",
+    "particle": "next:item/furniture/merchant_stall"
   },
   "elements": [
     {
