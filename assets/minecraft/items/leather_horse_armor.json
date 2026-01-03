@@ -163,7 +163,7 @@
       { "when": "woodensign_5", "model": { "type": "minecraft:model", "model": "next:furniture/woodensign_5" } },
       { "when": "woodensign_6", "model": { "type": "minecraft:model", "model": "next:furniture/woodensign_6" } },
       { "when": "bl_bush_potted_1", "model": { "type": "minecraft:model", "model": "next:bl/bl_bush_potted_1" } },
-      { "when": "bl_bush_potted_2", "model": { "type": "minecraft:model", "model": "next:bl_bush_potted_2" } },
+      { "when": "bl_bush_potted_2", "model": { "type": "minecraft:model", "model": "next:bl/bl_bush_potted_2" } },
       { "when": "bl_bush_potted_3", "model": { "type": "minecraft:model", "model": "next:bl/bl_bush_potted_3" } },
       { "when": "bl_flag_1", "model": { "type": "minecraft:model", "model": "next:bl/bl_flag_1" } },
       { "when": "bl_flag_2", "model": { "type": "minecraft:model", "model": "next:bl/bl_flag_2" } },
@@ -238,7 +238,17 @@
       { "when": "farmer_pack_table", "model": { "type": "minecraft:model", "model": "next:farmer/farmer_pack_table" } },
       { "when": "farmer_pack_under", "model": { "type": "minecraft:model", "model": "next:farmer/farmer_pack_under" } },
       { "when": "farmer_pack_water_1", "model": { "type": "minecraft:model", "model": "next:farmer/farmer_pack_water_1" } },
-      { "when": "farmer_pack_water_2", "model": { "type": "minecraft:model", "model": "next:farmer/farmer_pack_water_2" } }
+      { "when": "farmer_pack_water_2", "model": { "type": "minecraft:model", "model": "next:farmer/farmer_pack_water_2" } },
+      { "when": "leaderboard1", "model": { "type": "minecraft:model", "model": "next:leaderboards/leaderboard1" } },
+      { "when": "leaderboard2", "model": { "type": "minecraft:model", "model": "next:leaderboards/leaderboard2" } },
+      { "when": "leaderboard3", "model": { "type": "minecraft:model", "model": "next:leaderboards/leaderboard3" } },
+      { "when": "light", "model": { "type": "minecraft:model", "model": "next:props/light" } },
+      { "when": "light_gold", "model": { "type": "minecraft:model", "model": "next:props/light_gold" } },
+      { "when": "light_off", "model": { "type": "minecraft:model", "model": "next:props/light_off" } },
+      { "when": "light_purple", "model": { "type": "minecraft:model", "model": "next:props/light_purple" } },
+      { "when": "microphone", "model": { "type": "minecraft:model", "model": "next:props/microphone" } },
+      { "when": "speaker", "model": { "type": "minecraft:model", "model": "next:props/speaker" } },
+      { "when": "stage", "model": { "type": "minecraft:model", "model": "next:props/stage" } }
     ],
     "fallback": { "type": "minecraft:model", "model": "minecraft:item/leather_horse_armor" }
   }
