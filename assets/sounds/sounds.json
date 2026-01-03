@@ -30,8 +30,8 @@
     "category": "master",
     "sounds": [
       {
-        "name": "sounds:background/sendServer",
-        "stream": true
+        "name": "sounds:background/sendserver",
+        "stream": false
       }
     ]
   }
