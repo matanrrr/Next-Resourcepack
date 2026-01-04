@@ -7,8 +7,8 @@
           "type": "minecraft:special",
           "base": "minecraft:custom/entities/player/head",
           "model": {
-            "type": "minecraft:head",
-            "kind": "player"
+            "type": "minecraft:player_head",
+            "kind": "minecraft:profile"
           }
         },
         "threshold": 1
@@ -18,8 +18,8 @@
           "type": "minecraft:special",
           "base": "minecraft:custom/entities/player/right_arm",
           "model": {
-            "type": "minecraft:head",
-            "kind": "player"
+            "type": "minecraft:player_head",
+            "kind": "minecraft:profile"
           }
         },
         "threshold": 2
@@ -29,8 +29,8 @@
           "type": "minecraft:special",
           "base": "minecraft:custom/entities/player/left_arm",
           "model": {
-            "type": "minecraft:head",
-            "kind": "player"
+            "type": "minecraft:player_head",
+            "kind": "minecraft:profile"
           }
         },
         "threshold": 3
@@ -40,8 +40,8 @@
           "type": "minecraft:special",
           "base": "minecraft:custom/entities/player/torso",
           "model": {
-            "type": "minecraft:head",
-            "kind": "player"
+            "type": "minecraft:player_head",
+            "kind": "minecraft:profile"
           }
         },
         "threshold": 4
@@ -51,8 +51,8 @@
           "type": "minecraft:special",
           "base": "minecraft:custom/entities/player/right_leg",
           "model": {
-            "type": "minecraft:head",
-            "kind": "player"
+            "type": "minecraft:player_head",
+            "kind": "minecraft:profile"
           }
         },
         "threshold": 5
@@ -62,8 +62,8 @@
           "type": "minecraft:special",
           "base": "minecraft:custom/entities/player/left_leg",
           "model": {
-            "type": "minecraft:head",
-            "kind": "player"
+            "type": "minecraft:player_head",
+            "kind": "minecraft:profile"
           }
         },
         "threshold": 6
@@ -73,8 +73,8 @@
           "type": "minecraft:special",
           "base": "minecraft:custom/entities/player/slim_right",
           "model": {
-            "type": "minecraft:head",
-            "kind": "player"
+            "type": "minecraft:player_head",
+            "kind": "minecraft:profile"
           }
         },
         "threshold": 7
@@ -84,8 +84,8 @@
           "type": "minecraft:special",
           "base": "minecraft:custom/entities/player/slim_left",
           "model": {
-            "type": "minecraft:head",
-            "kind": "player"
+            "type": "minecraft:player_head",
+            "kind": "minecraft:profile"
           }
         },
         "threshold": 8
@@ -95,7 +95,7 @@
       "type": "minecraft:special",
       "base": "minecraft:item/template_skull",
       "model": {
-        "type": "minecraft:head",
+        "type": "minecraft:player_head",
         "kind": "minecraft:profile"
       }
     },
