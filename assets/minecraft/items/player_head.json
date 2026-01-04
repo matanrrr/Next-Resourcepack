@@ -93,7 +93,7 @@
     ],
     "fallback": {
       "type": "minecraft:special",
-      "base": "minecraft:item/template_skull",
+      "base": "minecraft:item/player_head",
       "model": {
         "type": "minecraft:head",
         "kind": "player"
