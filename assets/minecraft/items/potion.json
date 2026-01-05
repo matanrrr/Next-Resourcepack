@@ -1,0 +1,47 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/potion",
+      "tints": [
+        {
+          "type": "minecraft:potion",
+          "default": -13083194
+        }
+      ]
+    },
+    "entries": [
+      { "threshold": 300001, "model": { "type": "minecraft:model", "model": "cosmetics:body/leather_backpack" } },
+      { "threshold": 300002, "model": { "type": "minecraft:model", "model": "cosmetics:body/leather_backpack_self" } },
+      { "threshold": 300003, "model": { "type": "minecraft:model", "model": "cosmetics:hat/cowboy_hat" } },
+      { "threshold": 310001, "model": { "type": "minecraft:model", "model": "cosmetics:body/leather_backpack_normal_2" } },
+      { "threshold": 310002, "model": { "type": "minecraft:model", "model": "cosmetics:body/leather_backpack_self_2" } },
+      { "threshold": 400003, "model": { "type": "minecraft:model", "model": "cosmetics:body/red_parrot" } },
+      { "threshold": 400004, "model": { "type": "minecraft:model", "model": "cosmetics:body/red_parrot_self" } },
+      { "threshold": 400005, "model": { "type": "minecraft:model", "model": "cosmetics:hat/snow_fox_sleeping" } },
+      { "threshold": 400006, "model": { "type": "minecraft:model", "model": "cosmetics:hat/chef_hat" } },
+      { "threshold": 400007, "model": { "type": "minecraft:model", "model": "cosmetics:hat/witch_hat" } },
+      { "threshold": 400008, "model": { "type": "minecraft:model", "model": "cosmetics:body/squirrel_tail" } },
+      { "threshold": 400009, "model": { "type": "minecraft:model", "model": "cosmetics:body/squirrel_tail_self" } },
+      { "threshold": 400010, "model": { "type": "minecraft:model", "model": "cosmetics:body/bee_nest" } },
+      { "threshold": 400011, "model": { "type": "minecraft:model", "model": "cosmetics:body/bee_nest_self" } },
+      { "threshold": 400012, "model": { "type": "minecraft:model", "model": "cosmetics:body/backpack" } },
+      { "threshold": 400013, "model": { "type": "minecraft:model", "model": "cosmetics:body/backpack_self" } },
+      { "threshold": 400014, "model": { "type": "minecraft:model", "model": "cosmetics:entity/amogus_icon" } },
+      { "threshold": 400015, "model": { "type": "minecraft:model", "model": "cosmetics:entity/ballon_cluster_icon" } },
+      { "threshold": 400016, "model": { "type": "minecraft:model", "model": "cosmetics:entity/star_kite_icon" } },
+      { "threshold": 400017, "model": { "type": "minecraft:model", "model": "cosmetics:entity/locomotive_icon" } },
+      { "threshold": 400018, "model": { "type": "minecraft:model", "model": "minecraft:item/potion" } },
+      { "threshold": 410003, "model": { "type": "minecraft:model", "model": "cosmetics:body/red_parrot_normal_2" } },
+      { "threshold": 410004, "model": { "type": "minecraft:model", "model": "cosmetics:body/red_parrot_self_2" } },
+      { "threshold": 410008, "model": { "type": "minecraft:model", "model": "cosmetics:body/squirrel_tail_normal_2" } },
+      { "threshold": 410009, "model": { "type": "minecraft:model", "model": "cosmetics:body/squirrel_tail_self_2" } },
+      { "threshold": 410010, "model": { "type": "minecraft:model", "model": "cosmetics:body/bee_nest_normal_2" } },
+      { "threshold": 410011, "model": { "type": "minecraft:model", "model": "cosmetics:body/bee_nest_self_2" } },
+      { "threshold": 410012, "model": { "type": "minecraft:model", "model": "cosmetics:body/backpack_normal_2" } },
+      { "threshold": 410013, "model": { "type": "minecraft:model", "model": "cosmetics:body/backpack_self_2" } }
+    ]
+  }
+}
