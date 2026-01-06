@@ -29,8 +29,6 @@
         {"type": "bitmap", "file": "next:interactions/miner.png", "height": 32, "ascent": 32, "chars": ["\uE021"]},
         {"type": "bitmap", "file": "next:interactions/events.png", "height": 32, "ascent": 32, "chars": ["\uE022"]},
         {"type": "bitmap", "file": "next:interactions/sleep.png", "height": 32, "ascent": 32, "chars": ["\uE023"]},
-        {"type": "bitmap", "file": "next:interactions/survival.png", "height": 32, "ascent": 32, "chars": ["\uE024"]},
-
-        {"type": "bitmap", "file": "next:icons/discord.png", "height": 16, "ascent": 8, "chars": ["\uE025", "D"]}
+        {"type": "bitmap", "file": "next:interactions/survival.png", "height": 32, "ascent": 32, "chars": ["\uE024"]}
     ]
 }
