@@ -31,6 +31,6 @@
         {"type": "bitmap", "file": "next:interactions/sleep.png", "height": 32, "ascent": 32, "chars": ["\uE023"]},
         {"type": "bitmap", "file": "next:interactions/survival.png", "height": 32, "ascent": 32, "chars": ["\uE024"]},
 
-        {"type": "bitmap", "file": "next:icons/discord.png", "height": 9, "ascent": 8, "chars": ["\uE025"]}
+        {"type": "bitmap", "file": "next:icons/discord.png", "height": 16, "ascent": 12, "chars": ["\uE025", "D"]}
     ]
 }
