@@ -31,6 +31,9 @@
       "type": "single",
       "resource": "entity/enchanting_table_book"
     },
+
+    { "type": "directory", "source": "hat", "prefix": "hat/" },
+
     { "type": "single", "resource": "cosmetics:body/backpack" },
     { "type": "single", "resource": "cosmetics:body/bee_nest" },
     { "type": "single", "resource": "cosmetics:body/leather_backpack" },
@@ -41,10 +44,6 @@
     { "type": "single", "resource": "cosmetics:entity/amogus_eye_icon" },
     { "type": "single", "resource": "cosmetics:entity/locomotive/locomotive" },
     { "type": "single", "resource": "cosmetics:entity/star_kite/star_kite" },
-    { "type": "single", "resource": "cosmetics:hat/chef_hat" },
-    { "type": "single", "resource": "cosmetics:hat/cowboy_hat" },
-    { "type": "single", "resource": "cosmetics:hat/snow_fox_sleeping" },
-    { "type": "single", "resource": "cosmetics:hat/witch_hat" },
     { "type": "single", "resource": "z_cosmetics:cursor_default" },
     { "type": "single", "resource": "z_cosmetics:cursor_pointer" },
     { "type": "single", "resource": "z_cosmetics:cursor_scroll" },
