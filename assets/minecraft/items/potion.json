@@ -41,7 +41,21 @@
       { "threshold": 410010, "model": { "type": "minecraft:model", "model": "cosmetics:body/bee_nest_normal_2" } },
       { "threshold": 410011, "model": { "type": "minecraft:model", "model": "cosmetics:body/bee_nest_self_2" } },
       { "threshold": 410012, "model": { "type": "minecraft:model", "model": "cosmetics:body/backpack_normal_2" } },
-      { "threshold": 410013, "model": { "type": "minecraft:model", "model": "cosmetics:body/backpack_self_2" } }
+      { "threshold": 410013, "model": { "type": "minecraft:model", "model": "cosmetics:body/backpack_self_2" } },
+      { "threshold": 400019, "model": { "type": "minecraft:model", "model": "cosmetics:hat/brown_paper_bag_hat" } },
+      { "threshold": 400020, "model": { "type": "minecraft:model", "model": "cosmetics:hat/capybara_hat" } },
+      { "threshold": 400021, "model": { "type": "minecraft:model", "model": "cosmetics:hat/cherry_blossom_hat" } },
+      { "threshold": 400022, "model": { "type": "minecraft:model", "model": "cosmetics:hat/drowned_hat" } },
+      { "threshold": 400023, "model": { "type": "minecraft:model", "model": "cosmetics:hat/galaxy_hat" } },
+      { "threshold": 400024, "model": { "type": "minecraft:model", "model": "cosmetics:hat/hard_hat" } },
+      { "threshold": 400025, "model": { "type": "minecraft:model", "model": "cosmetics:hat/jet_pilot_helmet_hat" } },
+      { "threshold": 400026, "model": { "type": "minecraft:model", "model": "cosmetics:hat/lemon_slice_hat" } },
+      { "threshold": 400027, "model": { "type": "minecraft:model", "model": "cosmetics:hat/pokemon_hat" } },
+      { "threshold": 400028, "model": { "type": "minecraft:model", "model": "cosmetics:hat/pumpkin_hat" } },
+      { "threshold": 400029, "model": { "type": "minecraft:model", "model": "cosmetics:hat/rubber_duck_hat" } },
+      { "threshold": 400030, "model": { "type": "minecraft:model", "model": "cosmetics:hat/shark_hat" } },
+      { "threshold": 400031, "model": { "type": "minecraft:model", "model": "cosmetics:hat/turkey_hat" } },
+      { "threshold": 400032, "model": { "type": "minecraft:model", "model": "cosmetics:hat/watermelon_hat" } }
     ]
   }
 }
