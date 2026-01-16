@@ -55,7 +55,16 @@
       { "threshold": 400029, "model": { "type": "minecraft:model", "model": "cosmetics:hat/rubber_duck_hat" } },
       { "threshold": 400030, "model": { "type": "minecraft:model", "model": "cosmetics:hat/shark_hat" } },
       { "threshold": 400031, "model": { "type": "minecraft:model", "model": "cosmetics:hat/turkey_hat" } },
-      { "threshold": 400032, "model": { "type": "minecraft:model", "model": "cosmetics:hat/watermelon_hat" } }
+      { "threshold": 400032, "model": { "type": "minecraft:model", "model": "cosmetics:hat/watermelon_hat" } },
+      { "threshold": 400033, "model": { "type": "minecraft:model", "model": "cosmetics:hat/fishing_hat" } },
+      { "threshold": 400034, "model": { "type": "minecraft:model", "model": "cosmetics:hat/froggy_hat" } },
+      { "threshold": 400035, "model": { "type": "minecraft:model", "model": "cosmetics:body/shark_tail" } },
+      { "threshold": 400036, "model": { "type": "minecraft:model", "model": "cosmetics:body/shark_tail_self" } },
+      { "threshold": 400037, "model": { "type": "minecraft:model", "model": "cosmetics:body/lotus_backpack" } },
+      { "threshold": 400038, "model": { "type": "minecraft:model", "model": "cosmetics:body/lotus_backpack_self" } },
+      { "threshold": 400039, "model": { "type": "minecraft:model", "model": "cosmetics:body/scuba_tank" } },
+      { "threshold": 400040, "model": { "type": "minecraft:model", "model": "cosmetics:body/scuba_tank_self" } },
+      { "threshold": 400041, "model": { "type": "minecraft:model", "model": "cosmetics:hat/diving_goggles" } }
     ]
   }
 }

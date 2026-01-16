@@ -3,55 +3,25 @@
     { "type": "directory", "source": "entity", "prefix": "entity/" },
     { "type": "filter", "pattern": { "namespace": "minecraft", "path": "entity/fishing_hook" } },
     { "type": "directory", "source": "block", "prefix": "block/" },
-    {
-      "type": "directory",
-      "source": "items",
-      "prefix": "items/"
-    },
-    {
-      "type": "directory",
-      "source": "item",
-      "prefix": "item/"
-    },
-    {
-      "type": "directory",
-      "source": "vehicles",
-      "prefix": "vehicles/"
-    },
-    {
-      "type": "directory",
-      "source": "entity/conduit",
-      "prefix": "entity/conduit/"
-    },
-    {
-      "type": "single",
-      "resource": "entity/bell/bell_body"
-    },
-    {
-      "type": "single",
-      "resource": "entity/enchanting_table_book"
-    },
+
+    { "type": "directory", "source": "items", "prefix": "items/" },
+    { "type": "directory", "source": "item", "prefix": "item/" },
+    { "type": "directory", "source": "vehicles", "prefix": "vehicles/" },
+    { "type": "directory", "source": "entity/conduit", "prefix": "entity/conduit/" },
 
     { "type": "directory", "source": "hat", "prefix": "hat/" },
+    { "type": "directory", "source": "body", "prefix": "body/" },
+    { "type": "directory", "source": "entity", "prefix": "entity/" },
 
-    { "type": "single", "resource": "cosmetics:body/backpack" },
-    { "type": "single", "resource": "cosmetics:body/bee_nest" },
-    { "type": "single", "resource": "cosmetics:body/leather_backpack" },
-    { "type": "single", "resource": "cosmetics:body/red_parrot" },
-    { "type": "single", "resource": "cosmetics:body/squirrel_tail" },
-    { "type": "single", "resource": "cosmetics:entity/amogus/amogus" },
-    { "type": "single", "resource": "cosmetics:entity/amogus_body_icon" },
-    { "type": "single", "resource": "cosmetics:entity/amogus_eye_icon" },
-    { "type": "single", "resource": "cosmetics:entity/locomotive/locomotive" },
-    { "type": "single", "resource": "cosmetics:entity/star_kite/star_kite" },
+    { "type": "single", "resource": "entity/enchanting_table_book" },
+    { "type": "single", "resource": "entity/bell/bell_body" },
+
     { "type": "single", "resource": "z_cosmetics:cursor_default" },
     { "type": "single", "resource": "z_cosmetics:cursor_pointer" },
     { "type": "single", "resource": "z_cosmetics:cursor_scroll" },
     { "type": "single", "resource": "z_cosmetics:dyeing_pointer" },
     { "type": "single", "resource": "z_cosmetics:fullscreen_black_item" },
     { "type": "single", "resource": "z_cosmetics:tutorial" },
-    { "type": "single", "resource": "z_cosmetics:tutorial_dont_show_again" },
-    { "type": "single", "resource": "cosmetics:entity/ballon_cluster/ballon_cluster" },
-    { "type": "single", "resource": "cosmetics:entity/wings_enderdragon/dragon" }
+    { "type": "single", "resource": "z_cosmetics:tutorial_dont_show_again" }
   ]
 }
