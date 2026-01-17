@@ -70,7 +70,17 @@
       { "threshold": 400047, "model": { "type": "minecraft:model", "model": "cosmetics:hat/glasses/neon_sunglasses" } },
       { "threshold": 400048, "model": { "type": "minecraft:model", "model": "cosmetics:hat/glasses/rainbow_sunglasses" } },
       { "threshold": 400049, "model": { "type": "minecraft:model", "model": "cosmetics:hat/glasses/tint_sunglasses" } },
-      { "threshold": 400050, "model": { "type": "minecraft:model", "model": "cosmetics:hat/glasses/xray_glasses" } }
+      { "threshold": 400050, "model": { "type": "minecraft:model", "model": "cosmetics:hat/glasses/xray_glasses" } },
+      { "threshold": 9924771, "model": { "type": "minecraft:model", "model": "cosmetics:hat/fire_hat" } },
+      { "threshold": 9924776, "model": { "type": "minecraft:model", "model": "cosmetics:hat/wind_hat" } },
+      { "threshold": 9924772, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/fire_wings_cosmetic" } },
+      { "threshold": 9924773, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/fire_wings_cosmetic_self" } },
+      { "threshold": 9924774, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/fire_wings_cosmetic_self_2" } },
+      { "threshold": 9924775, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/fire_wings_cosmetic_normal_2" } },
+      { "threshold": 9924777, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/wind_wings_cosmetic" } },
+      { "threshold": 9924778, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/wind_wings_cosmetic_self" } },
+      { "threshold": 9924779, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/wind_wings_cosmetic_self_2" } },
+      { "threshold": 9924780, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/wind_wings_cosmetic_normal_2" } }
     ]
   }
 }
