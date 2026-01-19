@@ -31,6 +31,9 @@
         {"type": "bitmap", "file": "next:interactions/sleep.png", "height": 32, "ascent": 32, "chars": ["\uE023"]},
         {"type": "bitmap", "file": "next:interactions/survival.png", "height": 32, "ascent": 32, "chars": ["\uE024"]},
         {"type": "bitmap", "file": "next:interactions/guard.png", "height": 32, "ascent": 32, "chars": ["\uE025"]},
-        {"type": "bitmap", "file": "next:interactions/snake.png", "height": 32, "ascent": 32, "chars": ["\uE026"]}
+        {"type": "bitmap", "file": "next:interactions/snake.png", "height": 32, "ascent": 32, "chars": ["\uE026"]},
+        {"type": "bitmap", "file": "next:interactions/discord.png", "height": 32, "ascent": 32, "chars": ["\uE027"]},
+        {"type": "bitmap", "file": "next:interactions/store.png", "height": 32, "ascent": 32, "chars": ["\uE028"]},
+        {"type": "bitmap", "file": "next:interactions/money.png", "height": 32, "ascent": 32, "chars": ["\uE029"]}
     ]
 }
