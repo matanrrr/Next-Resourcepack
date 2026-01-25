@@ -30,6 +30,20 @@
               "type": "minecraft:model",
               "model": "next:crate/lvl4_key"
             }
+        },
+        {
+            "when": "key",
+            "model": {
+              "type": "minecraft:model",
+              "model": "next:crate/key"
+            }
+        },
+        {
+            "when": "key_red",
+            "model": {
+              "type": "minecraft:model",
+              "model": "next:crate/key_red"
+            }
         }
     ],
     "fallback": {
