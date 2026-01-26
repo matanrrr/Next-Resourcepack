@@ -43,6 +43,8 @@
         {"type": "bitmap", "file": "next:rarities/uncommon.png", "height": 9, "ascent": 8, "chars": ["\uE032"]},
         {"type": "bitmap", "file": "next:rarities/rare.png", "height": 9, "ascent": 8, "chars": ["\uE033"]},
         {"type": "bitmap", "file": "next:rarities/legendry.png", "height": 9, "ascent": 8, "chars": ["\uE034"]},
-        {"type": "bitmap", "file": "next:rarities/staff.png", "height": 9, "ascent": 8, "chars": ["\uE035"]}
+        {"type": "bitmap", "file": "next:rarities/staff.png", "height": 9, "ascent": 8, "chars": ["\uE035"]},
+
+        {"type": "bitmap", "file": "next:guis/tags.png", "height": 256, "ascent": 25, "chars": ["\uE036"]}
     ]
 }
