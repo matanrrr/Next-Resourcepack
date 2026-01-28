@@ -12,6 +12,7 @@
     { "type": "directory", "source": "hat", "prefix": "hat/" },
     { "type": "directory", "source": "body", "prefix": "body/" },
     { "type": "directory", "source": "entity", "prefix": "entity/" },
+    { "type": "directory", "source": "balloon", "prefix": "balloon/" },
 
     { "type": "single", "resource": "entity/enchanting_table_book" },
     { "type": "single", "resource": "entity/bell/bell_body" },
