@@ -85,7 +85,10 @@
       { "threshold": 9924777, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/wind_wings_cosmetic" } },
       { "threshold": 9924778, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/wind_wings_cosmetic_self" } },
       { "threshold": 9924779, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/wind_wings_cosmetic_self_2" } },
-      { "threshold": 9924780, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/wind_wings_cosmetic_normal_2" } }
+      { "threshold": 9924780, "model": { "type": "minecraft:model", "model": "cosmetics:body/wings/wind_wings_cosmetic_normal_2" } },
+      { "threshold": 400056, "model": { "type": "minecraft:model", "model": "cosmetics:balloon/cottagecore_bee_balloon_item" } },
+      { "threshold": 400057, "model": { "type": "minecraft:model", "model": "cosmetics:balloon/cottagecore_butterfly_balloon_item" } },
+      { "threshold": 400058, "model": { "type": "minecraft:model", "model": "cosmetics:balloon/cottagecore_mushroom_balloon_item" } }
     ]
   }
 }
