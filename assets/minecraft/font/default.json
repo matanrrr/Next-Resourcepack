@@ -35,6 +35,7 @@
         {"type": "bitmap", "file": "next:interactions/discord.png", "height": 32, "ascent": 32, "chars": ["\uE027"]},
         {"type": "bitmap", "file": "next:interactions/store.png", "height": 32, "ascent": 32, "chars": ["\uE028"]},
         {"type": "bitmap", "file": "next:interactions/money.png", "height": 32, "ascent": 32, "chars": ["\uE029"]},
+        {"type": "bitmap", "file": "next:interactions/clicker.png", "height": 32, "ascent": 32, "chars": ["\uE037"]},
 
         {"type": "bitmap", "file": "next:guis/server_selector.png", "height": 256, "ascent": 25, "chars": ["\uE030"]},
 
