@@ -48,6 +48,11 @@
         {"type": "bitmap", "file": "next:rarities/legendry.png", "height": 9, "ascent": 8, "chars": ["\uE034"]},
         {"type": "bitmap", "file": "next:rarities/staff.png", "height": 9, "ascent": 8, "chars": ["\uE035"]},
 
-        {"type": "bitmap", "file": "next:guis/tags.png", "height": 256, "ascent": 25, "chars": ["\uE036"]}
+        {"type": "bitmap", "file": "next:guis/tags.png", "height": 256, "ascent": 25, "chars": ["\uE036"]},
+
+        {"type": "bitmap", "file": "next:leaderboards/death.png", "height": 9, "ascent": 8, "chars": ["\uE040"]},
+        {"type": "bitmap", "file": "next:leaderboards/kills.png", "height": 9, "ascent": 8, "chars": ["\uE041"]},
+        {"type": "bitmap", "file": "next:leaderboards/money.png", "height": 9, "ascent": 8, "chars": ["\uE042"]},
+        {"type": "bitmap", "file": "next:leaderboards/playtime.png", "height": 9, "ascent": 8, "chars": ["\uE043"]}
     ]
 }
