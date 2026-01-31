@@ -55,12 +55,19 @@
         {"type": "bitmap", "file": "next:leaderboards/money.png", "height": 9, "ascent": 8, "chars": ["\uE042"]},
         {"type": "bitmap", "file": "next:leaderboards/playtime.png", "height": 9, "ascent": 8, "chars": ["\uE043"]},
 
-        {"type": "bitmap", "file": "next:ah/myauctions.png", "height": 256, "ascent": 24, "chars": ["\uE044"]},
-        {"type": "bitmap", "file": "next:ah/expireditems.png", "height": 256, "ascent": 24, "chars": ["\uE045"]},
-        {"type": "bitmap", "file": "next:ah/confirmpurchase.png", "height": 256, "ascent": 24, "chars": ["\uE046"]},
-        {"type": "bitmap", "file": "next:ah/bidding.png", "height": 256, "ascent": 24, "chars": ["\uE047"]},
-        {"type": "bitmap", "file": "next:ah/auctionhouse.png", "height": 256, "ascent": 24, "chars": ["\uE048"]},
-        {"type": "bitmap", "file": "next:ah/icons/auction.png", "height": 9, "ascent": 8, "chars": ["\uE049"]},
-        {"type": "bitmap", "file": "next:ah/icons/empty.png", "height": -10, "ascent": -32768, "chars": ["\uE050"]}
+        {"type": "bitmap", "file": "next:guis/ah/myauctions.png", "height": 256, "ascent": 24, "chars": ["\uE044"]},
+        {"type": "bitmap", "file": "next:guis/ah/expireditems.png", "height": 256, "ascent": 24, "chars": ["\uE045"]},
+        {"type": "bitmap", "file": "next:guis/ah/confirmpurchase.png", "height": 256, "ascent": 24, "chars": ["\uE046"]},
+        {"type": "bitmap", "file": "next:guis/ah/bidding.png", "height": 256, "ascent": 24, "chars": ["\uE047"]},
+        {"type": "bitmap", "file": "next:guis/ah/auctionhouse.png", "height": 256, "ascent": 24, "chars": ["\uE048"]},
+        {"type": "bitmap", "file": "next:guis/ah/icons/auction.png", "height": 9, "ascent": 8, "chars": ["\uE049"]},
+        {"type": "bitmap", "file": "next:guis/ah/icons/empty.png", "height": -10, "ascent": -32768, "chars": ["\uE050"]},
+
+        {"type": "bitmap", "file": "next:guis/trade/trade_ui.png", "height": 256, "ascent": 48, "chars": ["\uE051"]},
+        {"type": "bitmap", "file": "next:guis/trade/trade_ready.png", "height": 15, "ascent": -48, "chars": ["\uE052"]},
+        {"type": "bitmap", "file": "next:guis/trade/trade_not_ready.png", "height": 15, "ascent": -48, "chars": ["\uE053"]},
+        {"type": "bitmap", "file": "next:guis/trade/trade_icon.png", "height": 32, "ascent": 5, "chars": ["\uE054"]},
+        {"type": "bitmap", "file": "next:guis/trade/deny_button.png", "height": 15, "ascent": 15, "chars": ["\uE055"]},
+        {"type": "bitmap", "file": "next:guis/trade/accept_button.png", "height": 15, "ascent": 15, "chars": ["\uE056"]}
     ]
 }
