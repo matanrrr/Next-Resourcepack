@@ -60,7 +60,7 @@
         {"type": "bitmap", "file": "next:ah/confirmpurchase.png", "height": 256, "ascent": 24, "chars": ["\uE046"]},
         {"type": "bitmap", "file": "next:ah/bidding.png", "height": 256, "ascent": 24, "chars": ["\uE047"]},
         {"type": "bitmap", "file": "next:ah/auctionhouse.png", "height": 256, "ascent": 24, "chars": ["\uE048"]},
-        {"type": "bitmap", "file": "next:ah/auction.png", "height": 9, "ascent": 8, "chars": ["\uE049"]},
-        {"type": "bitmap", "file": "next:ah/empty.png", "height": -10, "ascent": -32768, "chars": ["\uE050"]}
+        {"type": "bitmap", "file": "next:ah/icons/auction.png", "height": 9, "ascent": 8, "chars": ["\uE049"]},
+        {"type": "bitmap", "file": "next:ah/icons/empty.png", "height": -10, "ascent": -32768, "chars": ["\uE050"]}
     ]
 }
