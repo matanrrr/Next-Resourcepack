@@ -8,6 +8,7 @@
       { "when": "lvl3_crate", "model": { "type": "minecraft:model", "model": "next:crate/lvl3_crate" } },
       { "when": "lvl4_crate", "model": { "type": "minecraft:model", "model": "next:crate/lvl4_crate" } },
       { "when": "chest", "model": { "type": "minecraft:model", "model": "next:crate/chest" } },
+      { "when": "chest_boost", "model": { "type": "minecraft:model", "model": "next:crate/chest_boost" } },
       { "when": "chest_red", "model": { "type": "minecraft:model", "model": "next:crate/chest_red" } },
       { "when": "balloon_blue", "model": { "type": "minecraft:model", "model": "next:balloons/balloon-blue" } },
       { "when": "balloon_creeper", "model": { "type": "minecraft:model", "model": "next:balloons/balloon-creeper" } },

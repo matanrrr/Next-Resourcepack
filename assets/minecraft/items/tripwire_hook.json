@@ -44,7 +44,14 @@
               "type": "minecraft:model",
               "model": "next:crate/key_red"
             }
-        }
+        },
+        {
+            "when": "key_boost",
+            "model": {
+              "type": "minecraft:model",
+              "model": "next:crate/key_boost"
+            }
+        }  
     ],
     "fallback": {
       "type": "minecraft:model",
