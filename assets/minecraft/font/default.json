@@ -53,6 +53,14 @@
         {"type": "bitmap", "file": "next:leaderboards/death.png", "height": 9, "ascent": 8, "chars": ["\uE040"]},
         {"type": "bitmap", "file": "next:leaderboards/kills.png", "height": 9, "ascent": 8, "chars": ["\uE041"]},
         {"type": "bitmap", "file": "next:leaderboards/money.png", "height": 9, "ascent": 8, "chars": ["\uE042"]},
-        {"type": "bitmap", "file": "next:leaderboards/playtime.png", "height": 9, "ascent": 8, "chars": ["\uE043"]}
+        {"type": "bitmap", "file": "next:leaderboards/playtime.png", "height": 9, "ascent": 8, "chars": ["\uE043"]},
+
+        {"type": "bitmap", "file": "next:ah/myauctions.png", "height": 256, "ascent": 24, "chars": ["\uE044"]},
+        {"type": "bitmap", "file": "next:ah/expireditems.png", "height": 256, "ascent": 24, "chars": ["\uE045"]},
+        {"type": "bitmap", "file": "next:ah/confirmpurchase.png", "height": 256, "ascent": 24, "chars": ["\uE046"]},
+        {"type": "bitmap", "file": "next:ah/bidding.png", "height": 256, "ascent": 24, "chars": ["\uE047"]},
+        {"type": "bitmap", "file": "next:ah/auctionhouse.png", "height": 256, "ascent": 24, "chars": ["\uE048"]},
+        {"type": "bitmap", "file": "next:ah/auction.png", "height": 9, "ascent": 8, "chars": ["\uE049"]},
+        {"type": "bitmap", "file": "next:ah/empty.png", "height": -10, "ascent": -32768, "chars": ["\uE050"]}
     ]
 }
