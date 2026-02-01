@@ -68,6 +68,11 @@
         {"type": "bitmap", "file": "next:guis/trade/trade_not_ready.png", "height": 15, "ascent": -48, "chars": ["\uE053"]},
         {"type": "bitmap", "file": "next:guis/trade/trade_icon.png", "height": 32, "ascent": 5, "chars": ["\uE054"]},
         {"type": "bitmap", "file": "next:guis/trade/deny_button.png", "height": 15, "ascent": 15, "chars": ["\uE055"]},
-        {"type": "bitmap", "file": "next:guis/trade/accept_button.png", "height": 15, "ascent": 15, "chars": ["\uE056"]}
+        {"type": "bitmap", "file": "next:guis/trade/accept_button.png", "height": 15, "ascent": 15, "chars": ["\uE056"]},
+
+        {"type": "bitmap", "file": "next:interactions/discord_message.png", "height": 46, "ascent": 10, "chars": ["\uE057"]},
+        {"type": "bitmap", "file": "next:interactions/store_message.png", "height": 46, "ascent": 10, "chars": ["\uE058"]},
+        {"type": "bitmap", "file": "next:scoreboard/claim.png", "height": 16, "ascent": 11, "chars": ["\uE059"]},
+        {"type": "bitmap", "file": "next:scoreboard/money.png", "height": 16, "ascent": 11, "chars": ["\uE060"]}
     ]
 }
