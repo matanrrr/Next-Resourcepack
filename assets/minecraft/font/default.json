@@ -63,12 +63,11 @@
         {"type": "bitmap", "file": "next:guis/ah/icons/auction.png", "height": 9, "ascent": 8, "chars": ["\uE049"]},
         {"type": "bitmap", "file": "next:guis/ah/icons/empty.png", "height": -10, "ascent": -32768, "chars": ["\uE050"]},
 
-        {"type": "bitmap", "file": "next:guis/trade/trade_ui.png", "height": 256, "ascent": 48, "chars": ["\uE051"]},
-        {"type": "bitmap", "file": "next:guis/trade/trade_ready.png", "height": 15, "ascent": -48, "chars": ["\uE052"]},
-        {"type": "bitmap", "file": "next:guis/trade/trade_not_ready.png", "height": 15, "ascent": -48, "chars": ["\uE053"]},
-        {"type": "bitmap", "file": "next:guis/trade/trade_icon.png", "height": 32, "ascent": 5, "chars": ["\uE054"]},
-        {"type": "bitmap", "file": "next:guis/trade/deny_button.png", "height": 15, "ascent": 15, "chars": ["\uE055"]},
-        {"type": "bitmap", "file": "next:guis/trade/accept_button.png", "height": 15, "ascent": 15, "chars": ["\uE056"]},
+        {"type": "bitmap", "file": "next:guis/trade/trade.png", "height": 256, "ascent": 37, "chars": ["\uE051"]},
+        {"type": "bitmap", "file": "next:guis/trade/click_green.png", "height": 9, "ascent": 8, "chars": ["\uE052"]},
+        {"type": "bitmap", "file": "next:guis/trade/click_purp.png", "height": 9, "ascent": 8, "chars": ["\uE053"]},
+        {"type": "bitmap", "file": "next:guis/trade/click_yellow.png", "height": 9, "ascent": 8, "chars": ["\uE054"]},
+        {"type": "bitmap", "file": "next:guis/trade/click_red.png", "height": 9, "ascent": 8, "chars": ["\uE055"]},
 
         {"type": "bitmap", "file": "next:interactions/discord_message.png", "height": 46, "ascent": 10, "chars": ["\uE057"]},
         {"type": "bitmap", "file": "next:interactions/store_message.png", "height": 46, "ascent": 10, "chars": ["\uE058"]},

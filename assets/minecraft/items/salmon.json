@@ -9,6 +9,20 @@
           "type": "minecraft:model",
           "model": "next:item/blank"
         }
+      },
+      {
+        "threshold": 5100,
+        "model": {
+          "type": "minecraft:model",
+          "model": "survival:item/accepted"
+        }
+      },
+        {
+        "threshold": 5102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "survival:item/partner_accepted"
+        }
       }
     ],
     "fallback": {
