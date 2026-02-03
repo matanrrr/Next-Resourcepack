@@ -14,14 +14,14 @@
         "threshold": 5100,
         "model": {
           "type": "minecraft:model",
-          "model": "survival:item/accepted"
+          "model": "next:item/accepted"
         }
       },
         {
         "threshold": 5102,
         "model": {
           "type": "minecraft:model",
-          "model": "survival:item/partner_accepted"
+          "model": "next:item/partner_accepted"
         }
       }
     ],
