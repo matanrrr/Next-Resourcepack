@@ -1,0 +1,200 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/dialogue.png",
+            "ascent": 37,
+            "height": 256,
+            "chars": ["ᚠ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/answer.png",
+            "ascent": 81,
+            "height": 256,
+            "chars": ["ᚡ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/character.png",
+            "ascent": 60,
+            "height": 256,
+            "chars": ["ᚢ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/lipsy.png",
+            "ascent": 60,
+            "height": 256,
+            "chars": ["ᚣ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/mayor.png",
+            "ascent": 60,
+            "height": 256,
+            "chars": ["ᚤ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/bob.png",
+            "ascent": 60,
+            "height": 256,
+            "chars": ["ᚥ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/pitria.png",
+            "ascent": 60,
+            "height": 256,
+            "chars": ["ᚦ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/snake.png",
+            "ascent": 60,
+            "height": 256,
+            "chars": ["ᚧ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/guard.png",
+            "ascent": 60,
+            "height": 256,
+            "chars": ["ᚨ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/wampus.png",
+            "ascent": 60,
+            "height": 256,
+            "chars": ["ᚩ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/hand.png",
+            "ascent": 74,
+            "height": 256,
+            "chars": ["ᚪ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/hand.png",
+            "ascent": 65,
+            "height": 256,
+            "chars": ["ᚫ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/hand.png",
+            "ascent": 56,
+            "height": 256,
+            "chars": ["ᚬ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/fog.png",
+            "ascent": 185,
+            "height": 256,
+            "chars": ["ᚭ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/name_start.png",
+            "ascent": 43,
+            "height": 256,
+            "chars": ["ᚮ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/name_mid.png",
+            "ascent": 43,
+            "height": 256,
+            "chars": ["ᚯ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/name_end.png",
+            "ascent": 43,
+            "height": 256,
+            "chars": ["ᚰ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/kingdom_hand.png",
+            "ascent": 74,
+            "height": 256,
+            "chars": ["ᚱ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/kingdom_hand.png",
+            "ascent": 65,
+            "height": 256,
+            "chars": ["ᚲ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/kingdom_hand.png",
+            "ascent": 56,
+            "height": 256,
+            "chars": ["ᚳ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/kingdom_dialogue.png",
+            "ascent": 45,
+            "height": 256,
+            "chars": ["ᚴ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/kingdom_answer.png",
+            "ascent": 83,
+            "height": 256,
+            "chars": ["ᚵ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/kingdom_character.png",
+            "ascent": 60,
+            "height": 256,
+            "chars": ["ᚶ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/kingdom_name_start.png",
+            "ascent": 43,
+            "height": 256,
+            "chars": ["ᚷ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/kingdom_name_mid.png",
+            "ascent": 43,
+            "height": 256,
+            "chars": ["ᚸ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/kingdom_name_end.png",
+            "ascent": 43,
+            "height": 256,
+            "chars": ["ᚹ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/pixel.png",
+            "ascent": -2000,
+            "height": -3,
+            "chars": ["七"]
+        },
+        {
+            "type": "bitmap",
+            "file": "luxdialogues:luxdialogues/pixel.png",
+            "ascent": -2000,
+            "height": 0,
+            "chars": ["𥳾"]
+        }
+    ]
+}
