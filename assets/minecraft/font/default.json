@@ -72,6 +72,17 @@
         {"type": "bitmap", "file": "next:interactions/discord_message.png", "height": 46, "ascent": 10, "chars": ["\uE057"]},
         {"type": "bitmap", "file": "next:interactions/store_message.png", "height": 46, "ascent": 10, "chars": ["\uE058"]},
         {"type": "bitmap", "file": "next:scoreboard/claim.png", "height": 16, "ascent": 11, "chars": ["\uE059"]},
-        {"type": "bitmap", "file": "next:scoreboard/money.png", "height": 16, "ascent": 11, "chars": ["\uE060"]}
+        {"type": "bitmap", "file": "next:scoreboard/money.png", "height": 16, "ascent": 11, "chars": ["\uE060"]},
+
+        {"type": "bitmap", "file": "next:guis/shop/pixel.png", "height": -3, "ascent": -2000, "chars": ["\uE061"]},
+        {"type": "bitmap", "file": "next:guis/shop/blocks.png", "height": 134, "ascent": 13, "chars": ["\uE062"]},
+        {"type": "bitmap", "file": "next:guis/shop/coloredblocks.png", "height": 134, "ascent": 13, "chars": ["\uE063"]},
+        {"type": "bitmap", "file": "next:guis/shop/farming.png", "height": 134, "ascent": 13, "chars": ["\uE064"]},
+        {"type": "bitmap", "file": "next:guis/shop/foods.png", "height": 134, "ascent": 13, "chars": ["\uE065"]},
+        {"type": "bitmap", "file": "next:guis/shop/redstone.png", "height": 134, "ascent": 13, "chars": ["\uE066"]},
+        {"type": "bitmap", "file": "next:guis/shop/ores.png", "height": 134, "ascent": 13, "chars": ["\uE067"]},
+        {"type": "bitmap", "file": "next:guis/shop/misc.png", "height": 134, "ascent": 13, "chars": ["\uE068"]},
+        {"type": "bitmap", "file": "next:guis/shop/mobdrops.png", "height": 134, "ascent": 13, "chars": ["\uE069"]},
+        {"type": "bitmap", "file": "next:guis/shop/mobdrops.png", "height": 125, "ascent": 13, "chars": ["\uE070"]}
     ]
 }
