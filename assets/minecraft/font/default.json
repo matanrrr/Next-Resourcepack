@@ -83,6 +83,6 @@
         {"type": "bitmap", "file": "next:guis/shop/ores.png", "height": 134, "ascent": 13, "chars": ["\uE067"]},
         {"type": "bitmap", "file": "next:guis/shop/misc.png", "height": 134, "ascent": 13, "chars": ["\uE068"]},
         {"type": "bitmap", "file": "next:guis/shop/mobdrops.png", "height": 134, "ascent": 13, "chars": ["\uE069"]},
-        {"type": "bitmap", "file": "next:guis/shop/mobdrops.png", "height": 125, "ascent": 13, "chars": ["\uE070"]}
+        {"type": "bitmap", "file": "next:guis/shop/mainshop.png", "height": 125, "ascent": 13, "chars": ["\uE070"]}
     ]
 }
