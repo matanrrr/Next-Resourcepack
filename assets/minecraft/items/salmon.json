@@ -23,6 +23,20 @@
           "type": "minecraft:model",
           "model": "next:item/partner_accepted"
         }
+      },
+      {
+        "threshold": 5103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "next:item/createteam"
+        }
+      },
+      {
+        "threshold": 5104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "next:item/settingsteam"
+        }
       }
     ],
     "fallback": {
