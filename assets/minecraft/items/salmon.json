@@ -58,6 +58,20 @@
           "type": "minecraft:model",
           "model": "next:item/membersteam"
         }
+      },
+      {
+        "threshold": 5108,
+        "model": {
+          "type": "minecraft:model",
+          "model": "next:item/enemyteam"
+        }
+      },
+      {
+        "threshold": 5109,
+        "model": {
+          "type": "minecraft:model",
+          "model": "next:item/alliesteam"
+        }
       }
     ],
     "fallback": {
