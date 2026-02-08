@@ -79,6 +79,13 @@
           "type": "minecraft:model",
           "model": "next:item/pvpteam"
         }
+      },
+      {
+        "threshold": 5111,
+        "model": {
+          "type": "minecraft:model",
+          "model": "next:item/warpteam"
+        }
       }
     ],
     "fallback": {
