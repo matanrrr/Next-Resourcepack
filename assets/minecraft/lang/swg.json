@@ -1,4 +1,12 @@
 {
+  "gui.advancements": "\uE085",
+  "menu.returnToGame": "\uE084",
+  "menu.reportBugs": "\uE083",
+  "menu.playerReporting": "\uE082",
+  "gui.stats": "\uE081",
+  "menu.disconnect": "\uE079",
+  "menu.sendFeedback": "\uE080",
+  "menu.options": "\uE078",
   "menu.game": "\uE013\uE014\ue012\ue012",
   "resourcePack.server.name":"teedeex",
   "pack.nameAndSource": "%s",
