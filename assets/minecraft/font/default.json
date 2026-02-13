@@ -94,13 +94,14 @@
 
         {"type": "bitmap", "file": "next:guis/weapons.png", "height": 134, "ascent": 13, "chars": ["\uE077"]},
 
-        {"type": "bitmap", "file": "next:esc/options.png", "height": 18, "ascent": 14, "chars": ["\uE078"]},
-        {"type": "bitmap", "file": "next:esc/disconnect.png", "height": 92, "ascent": 16, "chars": ["\uE079"]},
-        {"type": "bitmap", "file": "next:esc/feedback.png", "height": 18, "ascent": 14, "chars": ["\uE080"]},
-        {"type": "bitmap", "file": "next:esc/statistics.png", "height": 18, "ascent": 14, "chars": ["\uE081"]},
-        {"type": "bitmap", "file": "next:esc/player.png", "height": 18, "ascent": 14, "chars": ["\uE082"]},
-        {"type": "bitmap", "file": "next:esc/bugs.png", "height": 18, "ascent": 14, "chars": ["\uE083"]},
-        {"type": "bitmap", "file": "next:esc/back.png", "height": 18, "ascent": 14, "chars": ["\uE084"]},
-        {"type": "bitmap", "file": "next:esc/advancement.png", "height": 18, "ascent": 14, "chars": ["\uE085"]}
+        {"type": "bitmap", "file": "next:esc/options_button.png", "height": 22, "ascent": 14, "chars": ["\uE078"]},
+        {"type": "bitmap", "file": "next:esc/quit_button.png", "height": 36, "ascent": 27, "chars": ["\uE079"]},
+        {"type": "bitmap", "file": "next:esc/feedback_button.png", "height": 22, "ascent": 14, "chars": ["\uE080"]},
+        {"type": "bitmap", "file": "next:esc/stats_button.png", "height": 22, "ascent": 14, "chars": ["\uE081"]},
+        {"type": "bitmap", "file": "next:esc/preport_button.png", "height": 22, "ascent": 14, "chars": ["\uE082"]},
+        {"type": "bitmap", "file": "next:esc/rbugs_button.png", "height": 22, "ascent": 14, "chars": ["\uE083"]},
+        {"type": "bitmap", "file": "next:esc/back_button.png", "height": 35, "ascent": 23, "chars": ["\uE084"]},
+        {"type": "bitmap", "file": "next:esc/advancements_button.png", "height": 22, "ascent": 14, "chars": ["\uE085"]},
+        {"type": "bitmap", "file": "next:esc/bottom_news.png", "height": 78, "ascent": -1, "chars": ["\uE086"]}
     ]
 }
