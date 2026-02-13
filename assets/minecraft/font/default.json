@@ -112,6 +112,19 @@
         {"type": "bitmap", "file": "next:esc/rbugs_button.png", "height": 22, "ascent": 14, "chars": ["\uE083"]},
         {"type": "bitmap", "file": "next:esc/back_button.png", "height": 35, "ascent": 23, "chars": ["\uE084"]},
         {"type": "bitmap", "file": "next:esc/advancements_button.png", "height": 22, "ascent": 14, "chars": ["\uE085"]},
-        {"type": "bitmap", "file": "next:esc/bottom_news.png", "height": 78, "ascent": -1, "chars": ["\uE086"]}
+        {"type": "bitmap", "file": "next:esc/bottom_news.png", "height": 78, "ascent": -1, "chars": ["\uE086"]},
+
+		{"type": "bitmap", "file": "next:esc/returntogame.png", "ascent": 43, "height": 256, "chars": ["\uE097"]},
+        {"type": "bitmap", "file": "next:esc/disconnect_banner.png", "ascent": 133, "height": 256, "chars": ["\uE098"]},
+        {"type": "bitmap", "file": "next:esc/space.png", "height": -10, "ascent": -32768, "chars": ["\uE099"]},
+        {
+            "type": "bitmap",
+            "file": "next:esc/space.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uE100"
+            ]
+        }
     ]
 }
