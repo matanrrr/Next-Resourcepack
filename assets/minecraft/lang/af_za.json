@@ -1,13 +1,7 @@
 
 {
-  "gui.advancements":"\uE087\uE088\uE089§f\uE085§r\uE087",
-  "gui.stats":"\uE087\uE088\uE089§f\uE081§r\uE087",
   "menu.disconnect":"\uE099\uE098\uE100",
-  "menu.options":"\uE087\uE088\uE089§f\uE078§r\uE087",
-  "menu.playerReporting":"\uE087\uE088\uE089§f\uE082§r\uE087",
-  "menu.reportBugs":"\uE087\uE088\uE089§f\uE083§r\uE087",
   "menu.returnToGame": "\uE099\uE097\uE100\uE100\uE100\uE100\uE100\uE100\uE100\uE100\uE100\uE100\uE100\uE100\uE100\uE100\uE100\uE100\uE100\uE100",
-  "menu.sendFeedback":"\uE087\uE088\uE089§f\uE080§r\uE087",
   "menu.game": "\uE013\uE014\ue012\ue012",
   "resourcePack.server.name":"teedeex",
   "pack.nameAndSource": "%s",
