@@ -15,7 +15,7 @@
 
         {"type": "bitmap", "file": "next:splits/space_split.png", "height": -4, "ascent": -32768, "chars": ["\ue012"]},
         {"type": "bitmap", "file": "next:splits/pixel.png", "height": -3, "ascent": -2000, "chars": ["\uE017"]},
-        {"type": "bitmap", "file": "next:esc/space.png", "height": -10, "ascent": -32768, "chars": ["\uE099"]},
+        {"type": "bitmap", "file": "next:splits/space.png", "height": -10, "ascent": -32768, "chars": ["\uE099"]},
         {"type": "bitmap", "file": "next:splits/space.png", "height": -10, "ascent": -32768,"chars": ["\uE100"]},
 
         {"type": "bitmap", "file": "next:logo/tblogo_split1.png", "height": 39, "ascent": 0, "chars": ["\uE013"]},
