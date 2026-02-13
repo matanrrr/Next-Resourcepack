@@ -92,6 +92,15 @@
         {"type": "bitmap", "file": "next:item/left_click.png", "height": 9, "ascent": 8, "chars": ["\uE075"]},
         {"type": "bitmap", "file": "next:item/right_click.png", "height": 9, "ascent": 8, "chars": ["\uE076"]},
 
-        {"type": "bitmap", "file": "next:guis/weapons.png", "height": 134, "ascent": 13, "chars": ["\uE077"]}
+        {"type": "bitmap", "file": "next:guis/weapons.png", "height": 134, "ascent": 13, "chars": ["\uE077"]},
+
+        {"type": "bitmap", "file": "next:esc/options.png", "height": 22, "ascent": 14, "chars": ["\uE078"]},
+        {"type": "bitmap", "file": "next:esc/disconnect.png", "height": 50, "ascent": 14, "chars": ["\uE079"]},
+        {"type": "bitmap", "file": "next:esc/feedback.png", "height": 22, "ascent": 14, "chars": ["\uE080"]},
+        {"type": "bitmap", "file": "next:esc/statistics.png", "height": 22, "ascent": 14, "chars": ["\uE081"]},
+        {"type": "bitmap", "file": "next:esc/player.png", "height": 22, "ascent": 14, "chars": ["\uE082"]},
+        {"type": "bitmap", "file": "next:esc/bugs.png", "height": 22, "ascent": 14, "chars": ["\uE083"]},
+        {"type": "bitmap", "file": "next:esc/back.png", "height": 22, "ascent": 14, "chars": ["\uE084"]},
+        {"type": "bitmap", "file": "next:esc/advancement.png", "height": 22, "ascent": 14, "chars": ["\uE085"]}
     ]
 }
