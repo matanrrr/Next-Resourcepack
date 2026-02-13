@@ -15,6 +15,16 @@
 
         {"type": "bitmap", "file": "next:splits/space_split.png", "height": -4, "ascent": -32768, "chars": ["\ue012"]},
         {"type": "bitmap", "file": "next:splits/pixel.png", "height": -3, "ascent": -2000, "chars": ["\uE017"]},
+        {"type": "bitmap", "file": "next:splits/black.png", "height": -259, "ascent": -5000, "chars": ["\uE087"]},
+        {"type": "bitmap", "file": "next:splits/black.png", "height": 4, "ascent": -5000, "chars": ["\uE088"]},
+        {"type": "bitmap", "file": "next:splits/black.png", "height": -6, "ascent": -5000, "chars": ["\uE089"]},
+        {"type": "bitmap", "file": "next:splits/black.png", "height": -10, "ascent": -5000, "chars": ["\uE090"]},
+        {"type": "bitmap", "file": "next:splits/black.png", "height": -9, "ascent": -5000, "chars": ["\uE091"]},
+        {"type": "bitmap", "file": "next:splits/black.png", "height": -130, "ascent": -5000, "chars": ["\uE092"]},
+        {"type": "bitmap", "file": "next:splits/black.png", "height": -66, "ascent": -5000, "chars": ["\uE093"]},
+        {"type": "bitmap", "file": "next:splits/black.png", "height": -34, "ascent": -5000, "chars": ["\uE094"]},
+        {"type": "bitmap", "file": "next:splits/black.png", "height": 7, "ascent": -5000, "chars": ["\uE095"]},
+        {"type": "bitmap", "file": "next:splits/black.png", "height": 1, "ascent": -5000, "chars": ["\uE096"]},
 
         {"type": "bitmap", "file": "next:logo/tblogo_split1.png", "height": 39, "ascent": 0, "chars": ["\uE013"]},
         {"type": "bitmap", "file": "next:logo/tblogo_split2.png", "height": 39, "ascent": 0, "chars": ["\uE014"]},
