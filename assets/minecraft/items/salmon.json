@@ -93,6 +93,41 @@
           "type": "minecraft:model",
           "model": "next:item/back"
         }
+      },
+      {
+        "threshold": 5113,
+        "model": {
+          "type": "minecraft:model",
+          "model": "next:item/ammo/ak"
+        }
+      },
+      {
+        "threshold": 5114,
+        "model": {
+          "type": "minecraft:model",
+          "model": "next:item/ammo/m4"
+        }
+      },
+      {
+        "threshold": 5115,
+        "model": {
+          "type": "minecraft:model",
+          "model": "next:item/ammo/pistol"
+        }
+      },
+      {
+        "threshold": 5116,
+        "model": {
+          "type": "minecraft:model",
+          "model": "next:item/ammo/smg"
+        }
+      },
+      {
+        "threshold": 5116,
+        "model": {
+          "type": "minecraft:model",
+          "model": "next:item/ammo/sniper"
+        }
       }
     ],
     "fallback": {
