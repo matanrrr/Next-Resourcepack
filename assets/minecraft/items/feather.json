@@ -30,27 +30,6 @@
                 }
             },
             {
-                "threshold": -111,
-                "model": {
-                    "type": "model",
-                    "model": "next:item/weapons/granade"
-                }
-            },
-            {
-                "threshold": -110,
-                "model": {
-                    "type": "model",
-                    "model": "next:item/weapons/flashbang"
-                }
-            },
-            {
-                "threshold": -109,
-                "model": {
-                    "type": "model",
-                    "model": "next:item/weapons/semtex"
-                }
-            },
-            {
                 "threshold": -101,
                 "model": {
                     "type": "model",
@@ -202,6 +181,27 @@
                 "model": {
                     "type": "model",
                     "model": "item/weapons/fatman_rock"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "next:item/weapons/granade"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "model",
+                    "model": "next:item/weapons/flashbang"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "next:item/weapons/semtex"
                 }
             },
             {
