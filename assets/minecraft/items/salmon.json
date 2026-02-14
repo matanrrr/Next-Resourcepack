@@ -123,7 +123,7 @@
         }
       },
       {
-        "threshold": 5116,
+        "threshold": 5117,
         "model": {
           "type": "minecraft:model",
           "model": "next:item/ammo/sniper"
