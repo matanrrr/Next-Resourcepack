@@ -97,6 +97,8 @@
         {"type": "bitmap", "file": "next:guis/weapons.png", "height": 134, "ascent": 13, "chars": ["\uE077"]},
 
 		{"type": "bitmap", "file": "next:esc/back.png", "height": 256, "ascent": 43, "chars": ["\uE097"]},
-        {"type": "bitmap", "file": "next:esc/disconnect.png", "height": 256, "ascent": 133, "chars": ["\uE098"]}
+        {"type": "bitmap", "file": "next:esc/disconnect.png", "height": 256, "ascent": 133, "chars": ["\uE098"]},
+
+        {"type": "bitmap", "file": "next:guis/ammo.png", "height": 134, "ascent": 13, "chars": ["\uE101"]}
     ]
 }
