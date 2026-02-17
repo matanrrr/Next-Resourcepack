@@ -1,8 +1,0 @@
-{
-    "parent": "vehicles/vehicles/hotrod_red",
-    "textures": {
-        "particle": "items/particle",
-		"texture": "items/texture",
-		"voxels_atlas": "vehicles/cars/hotrod_orange"
-    }
-}

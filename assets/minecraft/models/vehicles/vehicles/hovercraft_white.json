@@ -1,8 +1,0 @@
-{
-    "parent": "vehicles/vehicles/hovercraft_gold",
-	"textures": {
-		"particle": "items/particle",
-		"texture": "items/texture",
-		"voxels_atlas": "vehicles/cars/hovercraft_white"
-    }
-}

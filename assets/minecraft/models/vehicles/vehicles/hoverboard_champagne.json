@@ -1,8 +1,0 @@
-{
-    "parent": "vehicles/vehicles/hoverboard_white",
-    "textures": {
-        "particle": "items/particle",
-		"texture": "items/texture",
-		"voxels_atlas": "vehicles/cars/hoverboard_champagne"
-    }
-}
